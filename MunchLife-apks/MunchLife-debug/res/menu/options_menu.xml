@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@android:drawable/ic_menu_close_clear_cancel" android:id="@id/reset" android:title="@string/reset" />
+    <item android:icon="@drawable/menu_dice" android:id="@id/diceroller" android:title="@string/diceroller" />
+    <item android:icon="@android:drawable/ic_menu_manage" android:id="@id/settings" android:title="@string/settings" />
+</menu>

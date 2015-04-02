@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="TableLayout01">false</item>
+    <item type="id" name="txtLbl1">false</item>
+    <item type="id" name="txtAmount">false</item>
+    <item type="id" name="txtLbl2">false</item>
+    <item type="id" name="txtPeople">false</item>
+    <item type="id" name="txtLbl3">false</item>
+    <item type="id" name="RadioGroupTips">false</item>
+    <item type="id" name="radioFifteen">false</item>
+    <item type="id" name="radioTwenty">false</item>
+    <item type="id" name="radioOther">false</item>
+    <item type="id" name="txtTipOther">false</item>
+    <item type="id" name="btnReset">false</item>
+    <item type="id" name="btnCalculate">false</item>
+    <item type="id" name="txtLbl4">false</item>
+    <item type="id" name="txtTipAmount">false</item>
+    <item type="id" name="txtLbl5">false</item>
+    <item type="id" name="txtTotalToPay">false</item>
+    <item type="id" name="txtLbl6">false</item>
+    <item type="id" name="txtTipPerPerson">false</item>
+</resources>

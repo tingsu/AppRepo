@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_launcher" id="0x7f020000" />
+    <public type="layout" name="main" id="0x7f030000" />
+    <public type="string" name="hello" id="0x7f040000" />
+    <public type="string" name="app_name" id="0x7f040001" />
+    <public type="string" name="textLbl1" id="0x7f040002" />
+    <public type="string" name="textLbl2" id="0x7f040003" />
+    <public type="string" name="textLbl3" id="0x7f040004" />
+    <public type="string" name="textLbl4" id="0x7f040005" />
+    <public type="string" name="textLbl5" id="0x7f040006" />
+    <public type="string" name="textLbl6" id="0x7f040007" />
+    <public type="string" name="rdoTxt15" id="0x7f040008" />
+    <public type="string" name="rdoTxt20" id="0x7f040009" />
+    <public type="string" name="rdoTxtOther" id="0x7f04000a" />
+    <public type="string" name="btnReset" id="0x7f04000b" />
+    <public type="string" name="btnCalculate" id="0x7f04000c" />
+    <public type="string" name="btnThree" id="0x7f04000d" />
+    <public type="id" name="TableLayout01" id="0x7f050000" />
+    <public type="id" name="txtLbl1" id="0x7f050001" />
+    <public type="id" name="txtAmount" id="0x7f050002" />
+    <public type="id" name="txtLbl2" id="0x7f050003" />
+    <public type="id" name="txtPeople" id="0x7f050004" />
+    <public type="id" name="txtLbl3" id="0x7f050005" />
+    <public type="id" name="RadioGroupTips" id="0x7f050006" />
+    <public type="id" name="radioFifteen" id="0x7f050007" />
+    <public type="id" name="radioTwenty" id="0x7f050008" />
+    <public type="id" name="radioOther" id="0x7f050009" />
+    <public type="id" name="txtTipOther" id="0x7f05000a" />
+    <public type="id" name="btnReset" id="0x7f05000b" />
+    <public type="id" name="btnCalculate" id="0x7f05000c" />
+    <public type="id" name="txtLbl4" id="0x7f05000d" />
+    <public type="id" name="txtTipAmount" id="0x7f05000e" />
+    <public type="id" name="txtLbl5" id="0x7f05000f" />
+    <public type="id" name="txtTotalToPay" id="0x7f050010" />
+    <public type="id" name="txtLbl6" id="0x7f050011" />
+    <public type="id" name="txtTipPerPerson" id="0x7f050012" />
+</resources>

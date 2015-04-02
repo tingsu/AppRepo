@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableLayout android:id="@id/level_table" android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="0,1"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TableRow>
+            <Button android:id="@id/up_button" android:layout_marginTop="5.0px" android:text="@string/up_level" />
+            <Button android:id="@id/up_gear_button" android:layout_marginTop="5.0px" android:text="@string/up_gear_level" />
+        </TableRow>
+        <TableRow>
+            <TextView android:textSize="70.0sp" android:textStyle="bold" android:layout_gravity="center" android:id="@id/current_level" android:layout_width="wrap_content" android:text="1" />
+            <TextView android:textSize="70.0sp" android:textStyle="bold" android:layout_gravity="center" android:id="@id/current_gear_level" android:layout_width="wrap_content" android:text="0" />
+        </TableRow>
+        <TableRow>
+            <Button android:id="@id/down_button" android:text="@string/down_level" />
+            <Button android:id="@id/down_gear_button" android:text="@string/down_gear_level" />
+        </TableRow>
+    </TableLayout>
+    <TextView android:textSize="140.0sp" android:textStyle="bold" android:gravity="center" android:id="@id/total_level" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="50.0dip" android:text="1" android:layout_below="@id/level_table" />
+    <ImageView android:gravity="center" android:id="@id/gender" android:layout_width="fill_parent" android:layout_height="120.0dip" android:src="@drawable/male_portrait" android:layout_below="@id/total_level" />
+</RelativeLayout>

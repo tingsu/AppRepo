@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="about_title">false</item>
+    <item type="id" name="about_version">false</item>
+    <item type="id" name="about_author">false</item>
+    <item type="id" name="about_gpl">false</item>
+    <item type="id" name="preparation_label">false</item>
+    <item type="id" name="prep_up_button">false</item>
+    <item type="id" name="preparation_text">false</item>
+    <item type="id" name="prep_down_button">false</item>
+    <item type="id" name="duration_label">false</item>
+    <item type="id" name="meditate_up_button">false</item>
+    <item type="id" name="meditation_text">false</item>
+    <item type="id" name="meditate_down_button">false</item>
+    <item type="id" name="sit">false</item>
+    <item type="id" name="timer_label">false</item>
+    <item type="id" name="timer_view">false</item>
+    <item type="id" name="screen_on_checkbox">false</item>
+    <item type="id" name="airplane_mode_checkbox">false</item>
+    <item type="id" name="silent_mode_checkbox">false</item>
+    <item type="id" name="maximize_volume_checkbox">false</item>
+    <item type="id" name="settings">false</item>
+    <item type="id" name="about">false</item>
+</resources>

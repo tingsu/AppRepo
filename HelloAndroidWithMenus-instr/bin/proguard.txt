@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:20
+-keep class course.examples.UI.MenuExample.HelloAndroidWithMenuActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class course.examples.instrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class course.examples.instrument.EmmaInstrumentation$InstrumentedActivity { <init>(...); }
+

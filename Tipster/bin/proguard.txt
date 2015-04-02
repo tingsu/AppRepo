@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:12
+-keep class com.examples.tipcalc.TipsterActivity { <init>(...); }
+
+# onClick res/layout/main.xml #generated:40
+-keepclassmembers class * { *** decrement(...); }
+
+# onClick res/layout/main.xml #generated:51
+-keepclassmembers class * { *** increment(...); }
+

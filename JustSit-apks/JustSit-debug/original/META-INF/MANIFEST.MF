@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/run_timer.xml
+SHA1-Digest: ew0RVIrDrZMO9LkVayvblBSDszw=
+
+Name: resources.arsc
+SHA1-Digest: Jt+7yEz9h2YiYg/L9x1gI19BZMM=
+
+Name: res/raw/bong.mp3
+SHA1-Digest: c9U9K5m+LeYWYpOvm0Zt047WoPk=
+
+Name: classes.dex
+SHA1-Digest: K6cTxXuIpaLo8XRNh1EA4zCWSMg=
+
+Name: res/drawable/up_button.png
+SHA1-Digest: DvppsIKaxGsUOiy0dOQHTzMRJYk=
+
+Name: res/drawable/down_button.png
+SHA1-Digest: O2v8BkNDgmPpGmgGrtgZ7GtRbC0=
+
+Name: res/layout/main.xml
+SHA1-Digest: o5q1EsKE40AJBzzFJvcl5w4JoBc=
+
+Name: res/drawable/up_arrow.png
+SHA1-Digest: jbDbY7a3gVJQ2+Q2pmY/AV6etqI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: j5g0TwtXuC63dIHPxkq6SMqptdk=
+
+Name: res/layout/settings.xml
+SHA1-Digest: 0GbbI3NoSLaqFE1QLiUJU6WvFZY=
+
+Name: res/drawable/icon.png
+SHA1-Digest: autQUE8FbK6OFtlWE4duN3q9tn4=
+
+Name: res/drawable/down_arrow.png
+SHA1-Digest: BEVT14NyTDI6lJZfR9ynYY/+6BE=
+
+Name: res/menu/justsit.xml
+SHA1-Digest: E0o8dABlk8nvIkfTjyJ1k6yGIqc=
+
+Name: res/layout/about.xml
+SHA1-Digest: gMMC6GaUHBYac8+QHNhFXSTgU+o=
+

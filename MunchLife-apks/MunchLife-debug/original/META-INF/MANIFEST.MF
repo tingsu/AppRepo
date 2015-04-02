@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/xml/preferences.xml
+SHA1-Digest: bo01oChERf7emVXGDP8OdeJKCXY=
+
+Name: res/drawable/female_landscape.png
+SHA1-Digest: Ungj0KIUP9xkqnTHPBwBeyv5Fcg=
+
+Name: res/drawable/menu_dice.png
+SHA1-Digest: +ZlFSKW6+ysc6N0pJasl4Z1tMDo=
+
+Name: res/drawable/three.png
+SHA1-Digest: dy7S8IuVBfToR8sVxJoIspIPZyU=
+
+Name: res/drawable/female_portrait.png
+SHA1-Digest: ueu2/db1KMpgBCIdMnUAYP1qrl0=
+
+Name: res/drawable/six.png
+SHA1-Digest: 85AsCRwMbD/GiJlDhujUS9y7gk0=
+
+Name: res/layout-land/main.xml
+SHA1-Digest: G0bL5NmRr8twMIbdDF6nmxZFIlo=
+
+Name: resources.arsc
+SHA1-Digest: 0C/R6IGIPK5WrvadUc+GZ7JxJLE=
+
+Name: classes.dex
+SHA1-Digest: LWqLSb8vWh1k7ImT79yZOEIvxoU=
+
+Name: res/drawable/male_portrait.png
+SHA1-Digest: CBsNGSACrMex5DdejrjgGzpSAgw=
+
+Name: res/layout/main.xml
+SHA1-Digest: tcSO1PbQ5JqBO9wKIJX0TkzZ3Po=
+
+Name: res/drawable-hdpi/background.png
+SHA1-Digest: 48K5S1neISNKYa8tY7A05Nn9jak=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 6blt2734wSVT7TWJtvGFFj6hZvs=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: PUbYZ2NYTHh4ehrLml3VsC/23L4=
+
+Name: res/drawable/one.png
+SHA1-Digest: 3V/anSkV2jF9UHhCwuPxpfL9bio=
+
+Name: res/drawable/five.png
+SHA1-Digest: h6NL/yHdNOKPbUXS2bnTLHIoA9Q=
+
+Name: res/drawable/male_landscape.png
+SHA1-Digest: PmJcAL+klEHDVUDw5NIUCVXm4ZY=
+
+Name: res/drawable/two.png
+SHA1-Digest: avWqtmB87PYCf5v2MMbfLHokl/k=
+
+Name: res/menu/options_menu.xml
+SHA1-Digest: oo9vtsehYstb9qK9mP+WjATRgqw=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 3kZ8C/qCojSw2vX0ZrOKWS3RThs=
+
+Name: res/drawable/four.png
+SHA1-Digest: kCRNvTGEst+ckPHisvYonaAEPqI=
+
+Name: assets/fonts/windlass.ttf
+SHA1-Digest: 3kmgnkJMTvF+cHu8A+Tejr0UWNA=
+

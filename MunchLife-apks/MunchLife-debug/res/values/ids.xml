@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="level_table">false</item>
+    <item type="id" name="up_button">false</item>
+    <item type="id" name="up_gear_button">false</item>
+    <item type="id" name="current_level">false</item>
+    <item type="id" name="current_gear_level">false</item>
+    <item type="id" name="down_button">false</item>
+    <item type="id" name="down_gear_button">false</item>
+    <item type="id" name="total_level">false</item>
+    <item type="id" name="gender">false</item>
+    <item type="id" name="reset">false</item>
+    <item type="id" name="diceroller">false</item>
+    <item type="id" name="settings">false</item>
+</resources>

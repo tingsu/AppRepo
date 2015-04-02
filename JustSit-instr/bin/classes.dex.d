@@ -1,0 +1,22 @@
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes.dex : \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/BuildConfig.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/JsAbout.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/JsSettings.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/JustSit$1.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/JustSit$2.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/JustSit$3.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/JustSit$4.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/JustSit$5.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/JustSit$6.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/JustSit.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/R$attr.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/R$drawable.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/R$id.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/R$layout.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/R$menu.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/R$raw.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/R$string.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/R.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/RunTimer$1.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/classes/com/brocktice/JustSit/RunTimer.class \
+/Users/tingsu/Documents/workspace/MyAndroidAnalysis/src/AppRepo/JustSit-instr/bin/dexedLibs/emma_device-4bb67d02ccd4185ccda2c4127263f5fd.jar \

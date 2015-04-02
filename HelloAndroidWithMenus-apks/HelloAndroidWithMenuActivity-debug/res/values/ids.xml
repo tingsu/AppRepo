@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="text_view">false</item>
+    <item type="id" name="help_guide">false</item>
+    <item type="id" name="help">false</item>
+    <item type="id" name="more_help">false</item>
+    <item type="id" name="even_more_help">false</item>
+    <item type="id" name="give_up">false</item>
+</resources>

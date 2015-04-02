@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <TextView android:id="@id/preparation_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/preparation_label" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <ImageView android:id="@id/prep_up_button" android:layout_width="48.0px" android:layout_height="48.0px" android:src="@drawable/up_button" />
+            <EditText android:gravity="right" android:id="@id/preparation_text" android:layout_width="100.0px" android:layout_height="wrap_content" android:text="@string/default_prep_time" android:singleLine="true" android:selectAllOnFocus="true" android:inputType="number" />
+            <ImageView android:gravity="center_vertical" android:id="@id/prep_down_button" android:layout_width="48.0px" android:layout_height="48.0px" android:src="@drawable/down_button" />
+        </LinearLayout>
+        <TextView android:id="@id/duration_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/duration_label" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <ImageView android:id="@id/meditate_up_button" android:layout_width="48.0px" android:layout_height="48.0px" android:src="@drawable/up_button" />
+            <EditText android:gravity="right" android:id="@id/meditation_text" android:layout_width="100.0px" android:layout_height="wrap_content" android:text="@string/default_meditation_time" android:singleLine="true" android:selectAllOnFocus="true" android:inputType="numberSigned" />
+            <ImageView android:id="@id/meditate_down_button" android:layout_width="48.0px" android:layout_height="48.0px" android:src="@drawable/down_button" />
+        </LinearLayout>
+    </LinearLayout>
+    <Button android:id="@id/sit" android:layout_width="fill_parent" android:layout_height="50.0px" android:text="@string/sit" />
+</LinearLayout>
